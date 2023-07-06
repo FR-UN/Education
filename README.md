@@ -28,6 +28,7 @@ Due to the importance of tunnels in Colombia, and the large number of outbreak o
 A methane and coal dust explosion that occurred in an underground coal mine was described and modeled. This folder contains:
 1. Tasco mine explosion: A self-contained document with a description of the models implemented in python and Cantera softwares, lines of code, and an explanation of the lines of code developed.
 2. README: A readme file that explains the first document and has links to download the necessary softwares.
+Due to the similarity of this case with case i, it was not taught in any course.
 ## Supplementary exercises.
 This folder contains eight supplementary exercises for modeling different phenomena related to fires and explosions, which were implemented in the Fires and Explosions Simulation Laboratory course, Mandatory course of the M.Eng. SEAFE.
 ### For more information please contact Alejandro Molina: amolinao@unal.edu.co
