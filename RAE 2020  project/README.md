@@ -1,3 +1,4 @@
+This folder contains six .zip folders which are explained below
 ### Case i. Tópaga mine explosion
 An explosion that occurred in an underground coal mine was analyzed and modeled. This folder contains:
 1. Lecture notes: detailed description of the case study.
