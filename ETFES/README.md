@@ -1,5 +1,5 @@
 ## ETFES
-This folder contains five folders, which are explained below
+This folder contains five .zip folders, which are explained below
 
 #### Comprehensive Problem #1 - Fire in a Tank Storage Facility
 An explosion and subsequent fire in a tank storage facility was analyzed and modeled. This folder contains:
