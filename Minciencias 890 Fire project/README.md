@@ -25,12 +25,28 @@ Se crearon unos criterios para evaluar las diferentes herramientas de simulació
 
 Para el caso de incendios por compartimentos se realizó una simulación en los software FDS, CFAST y FireFoam dado que todos son de libre acceso y teníamos posibilidad de realizar una comparación basado en un caso base, el cual se describe en el anexo 2. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con OpenFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
 
-
-
-
-
-
-
+**Tabla 2**. Rúbrica para software de incendios en compartimientos
+| | |Software incendios| | 
+|---|---|---|---| 
+|**Criterios**|**FDS**|**CFAST**|**FireFoam (OpenFoam)**| 
+|Instalación|5|5|4| 
+|Versión de (libre descarga)|5|5|5| 
+|Sistemas operativo|4|4|4| 
+|Modelos matemáticos|5|2|5| 
+|Tutoriales|5|5|5| 
+|Guía de usuario|5|5|4| 
+|Preproceso Malla|5|5|5| 
+|Preproceso Caso|5|5|5| 
+|Postproceso|4|4|5| 
+|Costo|5|5|5| 
+|Guia teórica|5|5|4| 
+|Fácil para enseñar|4|4|4| 
+|IA aplicabilidad|5|4|5| 
+|Costo computacional|4|5|4| 
+|Recursos en línea (Tesis-videos)|5|3|5| 
+|Posibilidad de incluir modelos propios|5|3|5| 
+|Información de los métodos numéricos implementados|5|5|5| 
+|**Total**|81|74|79| 
 
 
 
