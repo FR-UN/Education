@@ -1,7 +1,7 @@
 # Rúbrica para evaluar los software de simulación de incendios y explosiones
 Se crearon unos criterios para evaluar las diferentes herramientas de simulación física en los escenarios propuestos. Si bien algunos de los criterios no los pudimos evaluar directamente dadas las limitaciones que tenemos respecto al uso de la herramienta, se trató en estos casos de valorar el criterio apoyados con una revisión de la literatura y la información del fabricante o distribuidor. En la Tabla 1 se muestran los criterios usados en la evaluación de las HSF y la forma de valorar cada criterio.
 
-Tabla 1. Criterios de evaluación usados para la rúbrica
+**Tabla 1**. Criterios de evaluación usados para la rúbrica
 | | | |Indicadores| | |
 | --- |--- |--- |--- |--- |--- |
 |Criterios | 1 | 2 | 3 |4 |5 |
@@ -9,6 +9,28 @@ Tabla 1. Criterios de evaluación usados para la rúbrica
 |Versión de (libre descarga) | No tiene versión estudiantil|  |  | |Tiene versión estudiantil |
 |Sistemas operativos disponibles | Un solo S.O.  | Dos S.O. | Tres S.O.| |Varios S.O. |
 |Modelos matemáticos | Modelos 1-D  | Modelo de compartimientos | Modelos CFD 2-D| CFD |CFD - LES |
+|Tutoriales | No hay tutoriales  | Algunos problemas realizado por usuarios | Tutoriales realizados por usuarios| Tutoriales básicos oficiales |Tutoriales oficiales completos y de usuarios |
+|Guía de usuario | No tiene guia de usuario | Guías de usuario no oficiales - tesis | |Guía de usuario - propia |Guia de usuario con material |
+|Preproceso Malla|Requiere otro software de terceros|||Tiene su propio pre-procesador|Tiene su propio pre-procesador y de terceros|
+| Preproceso de caso| | || | |
+|Postproceso| | | |Post Proceso- requiere previamente definir zonas|Postprocesador fácil ,definir superficies, etc|
+|Costo|Comercial - Costo alto|Comercial - Costo bajo|Software libre con costo||Software libre, sin costo|
+|Guia teórica|No existe guía teórica|||Guía teórica de terceros-|Guía teórica propia del software|
+|Fácil para enseñar|Difícil||||Muy fácil|
+|IA aplicabilidad|Los datos no son aplicables IA|Genera pocos datos-poca aplicabilidad IA||genera gran cantidad Datos aplicables IA|Datos y Artículos que han demostrado aplicaciones IA|
+|Costo computacional|Más de 4 semanas|Semanas|Días|horas|Minutos|
+|Recursos en línea (Tesis-videos)|No hay recursos en línea|Poca información|Recursos en sitio web propio - desactualizados||Recursos en sitio web propio - actualizados|
+|Posibilidad de incluir modelos propios|No es posible||Es posible pero la implementación es compleja||Es posible y fácil de incluir|
+|Información de los métodos numéricos implementados|No se tiene información||||Información completa de los métodos de discretización usados|
+
+Para el caso de incendios por compartimentos se realizó una simulación en los software FDS, CFAST y FireFoam dado que todos son de libre acceso y teníamos posibilidad de realizar una comparación basado en un caso base, el cual se describe en el anexo 2. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con OpenFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
+
+
+
+
+
+
+
 
 
 
