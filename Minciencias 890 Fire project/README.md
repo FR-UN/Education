@@ -5,3 +5,11 @@ Tabla 1. Criterios de evaluación usados para la rúbrica
 | | | |Indicadores| | |
 | --- |--- |--- |--- |--- |--- |
 |Criterios | 1 | 2 | 3 |4 |5 |
+|Instalación | Muy difícil | Difícil | Medianamente |Fácil |Muy fácil |
+|Versión de (libre descarga) | No tiene versión estudiantil|  |  | |Tiene versión estudiantil |
+|Sistemas operativos disponibles | Un solo S.O.  | Dos S.O. | Tres S.O.| |Varios S.O. |
+|Modelos matemáticos | Modelos 1-D  | Modelo de compartimientos | Modelos CFD 2-D| CFD |CFD - LES |
+
+
+
+
