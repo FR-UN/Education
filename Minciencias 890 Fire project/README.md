@@ -98,3 +98,53 @@ En el caso de los incendios en cobertura vegetal se evaluó la rúbrica basado e
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|80|77|75| 
 
+En el caso de los incendios por empozamiento se evaluó la rúbrica basado en xxx
+
+**Tabla 5**. Rúbrica para software de incendios por empozamiento
+| | |Software incendios| | 
+|---|---|---|---| 
+|**Criterios**|**Ansys**|**FDS**|**FireFoam (OpenFoam)**| 
+|Instalación|5|5|4| 
+|Versión de (libre descarga)|4|5|5| 
+|Sistemas operativo|4|4|4| 
+|Modelos matemáticos|4|4|4| 
+|Tutoriales|3|5|4| 
+|Guía de usuario|4|4|3| 
+|Preproceso Malla|5|5|5| 
+|Preproceso Caso|5|5|5| 
+|Postproceso|5|5|5| 
+|Costo|3|5|5| 
+|Guia teórica|5|5|4| 
+|Fácil para enseñar|4|4|4| 
+|IA aplicabilidad|5|5|5| 
+|Costo computacional|4|4|4| 
+|Recursos en línea (Tesis-videos)|5|5|5| 
+|Posibilidad de incluir modelos propios|5|5|5| 
+|Información de los métodos numéricos implementados|5|5|5| 
+|**Total**|75|80|76| 
+
+Para evaluar las explosiones se evaluó la rúbrica basado en un tutorial de OpenFoam en el cual se usa la librería de XiFoam. La simulación se realizó tanto en el software Ansys como en el software OpenFoam dado que se disponía de estas herramientas para su uso, en el caso de ExploCFD y FLACS se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web.
+
+**Tabla 6**. Rúbrica para evaluar una explosión de gases
+| | |Software explosiones| | | 
+|---|---|---|---| ---|
+|**Criterios**|**FLACS**|**ExploCFD**|**Ansys**|**OpenFoam**| 
+|Instalación|5|5|5| 4| 
+|Versión de (libre descarga)|5|1|5| 5| 
+|Sistemas operativo|3|1|4| 4| 
+|Modelos matemáticos|1|1|5| 5| 
+|Tutoriales|3|3|3| 5| 
+|Guía de usuario|4|3|5| 4| 
+|Preproceso Malla|5|5|5| 5| 
+|Preproceso Caso|5|5|5| 5| 
+|Postproceso|1|4|5| 3| 
+|Costo|5|2|4| 5| 
+|Guia teórica|2|3|5| 4| 
+|Fácil para enseñar|1|4|5|3| 
+|IA aplicabilidad|3|3|5| 5| 
+|Costo computacional|5|5|3| 3| 
+|Recursos en línea (Tesis-videos)|1|3|5|5|  
+|Posibilidad de incluir modelos propios|4|1|4|5|  
+|Información de los métodos numéricos implementados|4|4|5|5|  
+|**Total**|57|53|78|75| 
+
