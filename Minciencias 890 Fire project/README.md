@@ -48,6 +48,53 @@ Para el caso de incendios por compartimentos se realizó una simulación en los 
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|81|74|79| 
 
+En el caso de los incendios en galerías se evaluó la rúbrica basado en la revisión de la literatura y la experiencia con estos software.
 
+**Tabla 3**. Rúbrica para software de incendios en galerias
+| | |Software incendios| | | 
+|---|---|---|---| ---|
+|**Criterios**|**MFIRE**|**VentFire**|**FDS**|**FireFoam (OpenFoam)**| 
+|Instalación|5|5|5| 4| 
+|Versión de (libre descarga)|5|1|5| 5| 
+|Sistemas operativo|3|1|4| 4| 
+|Modelos matemáticos|1|1|5| 5| 
+|Tutoriales|3|3|3| 5| 
+|Guía de usuario|4|3|5| 4| 
+|Preproceso Malla|5|5|5| 5| 
+|Preproceso Caso|5|5|5| 5| 
+|Postproceso|1|4|5| 3| 
+|Costo|5|2|4| 5| 
+|Guia teórica|2|3|5| 4| 
+|Fácil para enseñar|1|4|5|3| 
+|IA aplicabilidad|3|3|5| 5| 
+|Costo computacional|5|5|3| 3| 
+|Recursos en línea (Tesis-videos)|1|3|5|5|  
+|Posibilidad de incluir modelos propios|4|1|4|5|  
+|Información de los métodos numéricos implementados|4|4|5|5|  
+|**Total**|57|53|78|75| 
 
+En el caso de los incendios en cobertura vegetal se evaluó la rúbrica basado en xxx
+
+**Tabla 4**. Rúbrica para software de incendios en cobertura vegetal
+| | |Software incendios| | 
+|---|---|---|---| 
+|**Criterios**|**WFDS**|**FDS**|**FireFoam (OpenFoam)**| 
+|Instalación|5|5|4| 
+|Versión de (libre descarga)|5|5|5| 
+|Sistemas operativo|4|4|4| 
+|Modelos matemáticos|5|4|4| 
+|Tutoriales|4|3|3| 
+|Guía de usuario|5|4|3| 
+|Preproceso Malla|5|5|5| 
+|Preproceso Caso|5|5|5| 
+|Postproceso|4|4|5| 
+|Costo|5|5|5| 
+|Guia teórica|5|5|4| 
+|Fácil para enseñar|4|4|4| 
+|IA aplicabilidad|5|5|5| 
+|Costo computacional|4|4|4| 
+|Recursos en línea (Tesis-videos)|5|5|5| 
+|Posibilidad de incluir modelos propios|5|5|5| 
+|Información de los métodos numéricos implementados|5|5|5| 
+|**Total**|80|77|75| 
 
