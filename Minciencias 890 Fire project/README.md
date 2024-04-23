@@ -1,5 +1,5 @@
 # Rúbrica para evaluar los software de simulación de incendios y explosiones
-Se crearon unos criterios para evaluar las diferentes herramientas de simulación física en los escenarios propuestos. Si bien algunos de los criterios no los pudimos evaluar directamente dadas las limitaciones que tenemos respecto al uso de la herramienta, se trató en estos casos de valorar el criterio apoyados con una revisión de la literatura y la información del fabricante o distribuidor. En la Tabla 1 se muestran los criterios usados en la evaluación de las HSF y la forma de valorar cada criterio.
+Se crearon unos criterios para evaluar las diferentes herramientas de modelación física (HsMF) en los diferentes escenarios donde se pueden dar incendios o explosiones. Si bien algunos de los criterios no los pudimos evaluar directamente dadas las limitaciones que tenemos respecto al uso de la herramienta, se trató en estos casos de valorar el criterio apoyados con una revisión de la literatura y la información del fabricante o distribuidor. En la Tabla 1 se muestran los criterios usados en la evaluación de las HsMF y la forma de valorar cada criterio.
 
 **Tabla 1**. Criterios de evaluación usados para la rúbrica
 | | | |Indicadores| | |
