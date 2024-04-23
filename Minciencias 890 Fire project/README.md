@@ -48,7 +48,7 @@ Para el caso de incendios por compartimentos se realizó una simulación en las 
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|81|74|79| 
 
-En el caso de los incendios en galerías se evaluó la rúbrica basado en la revisión de la literatura y la experiencia con estos software.
+En el caso de los incendios en galerías se evaluó la rúbrica basado en la revisión de la literatura y la experiencia que se ha tenido en diferentes proyectos con el uso de estas HsMF. Si bien se observa que FDS presenta la mejor calificación para simular este tipo de incendio, es importante resaltar que el uso de esta herramienta se puede ver seriamente limitada si la geometría a simular tiene dimensiones muy grandes que puede ocurrir en minas subterráneas que presentan extensiones de kilómetros, bajo estos escenarios herramientas que usan modelos 1D como MFIRE y VentFire son recomendados.
 
 **Tabla 3**. Rúbrica para software de incendios en galerias
 | | |Software incendios| | | 
