@@ -129,22 +129,22 @@ Para evaluar las explosiones se evaluó la rúbrica basado en un tutorial de Ope
 | | |Software explosiones| | | 
 |---|---|---|---| ---|
 |**Criterios**|**FLACS**|**ExploCFD**|**Ansys**|**OpenFoam**| 
-|Instalación|5|5|5| 4| 
-|Versión de (libre descarga)|5|1|5| 5| 
-|Sistemas operativo|3|1|4| 4| 
-|Modelos matemáticos|1|1|5| 5| 
-|Tutoriales|3|3|3| 5| 
-|Guía de usuario|4|3|5| 4| 
-|Preproceso Malla|5|5|5| 5| 
+|Instalación|5|3|5| 4| 
+|Versión de (libre descarga)|1|1|5| 5| 
+|Sistemas operativo|4|1|4| 4| 
+|Modelos matemáticos|5|3|5| 5| 
+|Tutoriales|5|4|3| 5| 
+|Guía de usuario|5|5|5| 4| 
+|Preproceso Malla|5|2|5| 5| 
 |Preproceso Caso|5|5|5| 5| 
-|Postproceso|1|4|5| 3| 
-|Costo|5|2|4| 5| 
-|Guia teórica|2|3|5| 4| 
-|Fácil para enseñar|1|4|5|3| 
-|IA aplicabilidad|3|3|5| 5| 
+|Postproceso|5|3|5| 3| 
+|Costo|1|2|4| 5| 
+|Guia teórica|3|1|5| 4| 
+|Fácil para enseñar|4|4|5|3| 
+|IA aplicabilidad|5|5|5| 5| 
 |Costo computacional|5|5|3| 3| 
-|Recursos en línea (Tesis-videos)|1|3|5|5|  
-|Posibilidad de incluir modelos propios|4|1|4|5|  
-|Información de los métodos numéricos implementados|4|4|5|5|  
-|**Total**|57|53|78|75| 
+|Recursos en línea (Tesis-videos)|5|5|5|5|  
+|Posibilidad de incluir modelos propios|1|1|4|5|  
+|Información de los métodos numéricos implementados|1|1|5|5|  
+|**Total**|65|51|78|75| 
 
