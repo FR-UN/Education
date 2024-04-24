@@ -123,7 +123,7 @@ En el caso de los incendios por empozamiento se evaluó el desempeño que podrí
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|75|80|76| 
 
-Para evaluar las explosiones se evaluó la rúbrica basado en un tutorial de OpenFoam en el cual se usa la librería de XiFoam. La simulación se realizó tanto en el software Ansys como en el software OpenFoam dado que se disponía de estas herramientas para su uso, dado que las herramientas ExploCFD y FLAME ACCELERATION SIMULATION (FLACS) han sido usados para simular este fenómeno de acuerdo a la revisión realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam serían una muy biena opción para la enseñanza de este fenómeno.
+Para evaluar las explosiones de gases se evaluó la rúbrica basado en un tutorial de OpenFoam en el cual se usa la librería de XiFoam. La simulación se realizó tanto en el software Ansys como en el software OpenFoam dado que se disponía de estas herramientas para su uso, dado que las herramientas ExploCFD y FLAME ACCELERATION SIMULATION (FLACS) han sido usados para simular este fenómeno de acuerdo a la revisión realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam serían una muy biena opción para la enseñanza de este fenómeno.
 
 **Tabla 6**. Rúbrica para evaluar una explosión de gases
 | | |Software explosiones| | | 
@@ -148,3 +148,52 @@ Para evaluar las explosiones se evaluó la rúbrica basado en un tutorial de Ope
 |Información de los métodos numéricos implementados|1|1|5|5|  
 |**Total**|65|51|78|75| 
 
+Para evaluar las explosiones de sprays y nieblas se evaluaron herramientas ExploCFD, FDS, OpenFoam y Fluent que han sido usados para simular este fenómeno de acuerdo a la revisión de la literatura realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada Fluent y OpenFoam serían presentan la mejor calificación.
+
+**Tabla 7**. Rúbrica para evaluar una explosión de sprays y nieblas
+| | |Software explosiones| | | 
+|---|---|---|---| ---|
+|**Criterios**|**FLACS**|**ExploCFD**|**Ansys**|**OpenFoam**| 
+|Instalación|5|3|5| 4| 
+|Versión de (libre descarga)|1|1|5| 5| 
+|Sistemas operativo|4|1|4| 4| 
+|Modelos matemáticos|5|3|5| 5| 
+|Tutoriales|5|4|3| 5| 
+|Guía de usuario|5|5|5| 4| 
+|Preproceso Malla|5|2|5| 5| 
+|Preproceso Caso|5|5|5| 5| 
+|Postproceso|5|3|5| 3| 
+|Costo|1|2|4| 5| 
+|Guia teórica|3|1|4| 4| 
+|Fácil para enseñar|4|4|5|3| 
+|IA aplicabilidad|5|5|5| 5| 
+|Costo computacional|5|5|3| 3| 
+|Recursos en línea (Tesis-videos)|5|2|4|5|  
+|Posibilidad de incluir modelos propios|1|1|4|5|  
+|Información de los métodos numéricos implementados|1|1|5|5|  
+|**Total**|65|50|76|75| 
+
+Para evaluar las explosiones de polvos combustibles se evaluaron herramientas ExploCFD, FDS, OpenFoam y Fluent que han sido usados para simular este fenómeno de acuerdo a la revisión de la literatura realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam consideramos que son las más adecuadas dada la posibilidad de usar versiones libres y de presentar información abundante tanto de los modelos implementados como de estudios realizados en estas herramientas.
+
+**Tabla 8**. Rúbrica para evaluar una explosión de polvos combustibles
+| | |Software explosiones| | | 
+|---|---|---|---| ---|
+|**Criterios**|**FLACS**|**ExploCFD**|**Ansys**|**OpenFoam**| 
+|Instalación|5|3|5| 4| 
+|Versión de (libre descarga)|1|1|5| 5| 
+|Sistemas operativo|4|1|4| 4| 
+|Modelos matemáticos|5|3|5| 5| 
+|Tutoriales|5|4|4| 5| 
+|Guía de usuario|5|5|5| 4| 
+|Preproceso Malla|5|2|5| 5| 
+|Preproceso Caso|5|5|5| 5| 
+|Postproceso|5|3|5| 3| 
+|Costo|1|2|4| 5| 
+|Guia teórica|3|1|5| 4| 
+|Fácil para enseñar|4|4|5|3| 
+|IA aplicabilidad|5|5|5| 5| 
+|Costo computacional|5|5|3| 3| 
+|Recursos en línea (Tesis-videos)|5|2|5|5|  
+|Posibilidad de incluir modelos propios|1|1|4|5|  
+|Información de los métodos numéricos implementados|1|1|5|5|  
+|**Total**|65|50|79|75| 
