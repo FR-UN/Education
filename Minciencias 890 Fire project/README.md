@@ -98,12 +98,12 @@ En el caso de los incendios en cobertura vegetal se evaluó la rúbrica para las
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|80|77|75| 
 
-En el caso de los incendios por empozamiento se evaluó el desempeño que podría tener los software Ansys Fluent, FDS y OpenFoam en la enseñanzade este fenómenos
+En el caso de los incendios por empozamiento se evaluó el desempeño que podría tener los software Ansys Fluent, FDS y OpenFoam en la enseñanza de este fenómeno. Dadas las caracteristicas de Fluent y OpenFoam que son software CFD multipropositos estos presentan unas mínimas desventajas en comparación con FDS que fue diseñado especificamente para simular incendios, sin embargo las capacidades de Ansys en el postproceso y la interfaz gráfica con la que cuenta para la construcción del caso la hace una herramienta muy atractiva y con mucho potencial en la enseñanza de este tipo de incendios.
 
 **Tabla 5**. Rúbrica para software de incendios por empozamiento
 | | |Software incendios| | 
 |---|---|---|---| 
-|**Criterios**|**Ansys**|**FDS**|**FireFoam (OpenFoam)**| 
+|**Criterios**|**Ansys Fluent**|**FDS**|**FireFoam (OpenFoam)**| 
 |Instalación|5|5|4| 
 |Versión de (libre descarga)|4|5|5| 
 |Sistemas operativo|4|4|4| 
