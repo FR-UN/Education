@@ -48,7 +48,7 @@ Para el caso de incendios por compartimentos se realizó una simulación en las 
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|81|74|79| 
 
-En el caso de los incendios en galerías se evaluó la rúbrica basado en la revisión de la literatura y la experiencia que se ha tenido en diferentes proyectos con el uso de estas HsMF. Si bien se observa que FDS presenta la mejor calificación para simular este tipo de incendio, es importante resaltar que el uso de esta herramienta se puede ver seriamente limitada si la geometría a simular tiene dimensiones muy grandes que puede ocurrir en minas subterráneas que presentan extensiones de kilómetros, bajo estos escenarios herramientas que usan modelos 1D como MFIRE y VentFire son recomendados.
+En el caso de los incendios en galerías se evaluó la rúbrica basado en la revisión de la literatura y la experiencia que se ha tenido en diferentes proyectos con el uso de las HsMF para simular galerias y tuneles. Las HsMF MFIRE, VentFire, FDS y OpenFoam se evaluaron para determinar la herramienta más adecucada para educar en la prevención y mitigación cuando se presentan este tipo de incendios. Si bien se observa que FDS presenta la mejor calificación para simular este tipo de incendio, es importante resaltar que el uso de esta herramienta se puede ver seriamente limitada si la geometría a simular tiene dimensiones muy grandes que puede ocurrir en minas subterráneas que presentan extensiones de kilómetros, bajo estos escenarios herramientas que usan modelos 1D como MFIRE y VentFire son recomendados.
 
 **Tabla 3**. Rúbrica para software de incendios en galerias
 | | |Software incendios| | | 
@@ -73,7 +73,7 @@ En el caso de los incendios en galerías se evaluó la rúbrica basado en la rev
 |Información de los métodos numéricos implementados|4|4|5|5|  
 |**Total**|57|53|78|75| 
 
-En el caso de los incendios en cobertura vegetal se evaluó la rúbrica basado en xxx
+En el caso de los incendios en cobertura vegetal se evaluó la rúbrica para las herramientas Wildland-Urban Interface Fire Dynamics Simulator (WFDS), FDS y OpenFoam, de acuerdo a la revisión de literatura que se realizó de este proceso. La evaluación de estas herramientas sugiere que WFDS es la más adecuada para la enseñanza de este tipo de incendios. sin embargo es importante resaltar que en la evaluación de este tipo de incendio no se encontró una diferencia muy marcada entre las herramientas evaluadas que sugiere que cualquiera podría usarse para simular este proceso.
 
 **Tabla 4**. Rúbrica para software de incendios en cobertura vegetal
 | | |Software incendios| | 
@@ -98,7 +98,7 @@ En el caso de los incendios en cobertura vegetal se evaluó la rúbrica basado e
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|80|77|75| 
 
-En el caso de los incendios por empozamiento se evaluó la rúbrica basado en xxx
+En el caso de los incendios por empozamiento se evaluó el desempeño que podría tener los software Ansys Fluent, FDS y OpenFoam en la enseñanzade este fenómenos
 
 **Tabla 5**. Rúbrica para software de incendios por empozamiento
 | | |Software incendios| | 
