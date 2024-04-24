@@ -123,7 +123,7 @@ En el caso de los incendios por empozamiento se evaluó el desempeño que podrí
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|75|80|76| 
 
-Para evaluar las explosiones se evaluó la rúbrica basado en un tutorial de OpenFoam en el cual se usa la librería de XiFoam. La simulación se realizó tanto en el software Ansys como en el software OpenFoam dado que se disponía de estas herramientas para su uso, en el caso de ExploCFD y FLACS se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web.
+Para evaluar las explosiones se evaluó la rúbrica basado en un tutorial de OpenFoam en el cual se usa la librería de XiFoam. La simulación se realizó tanto en el software Ansys como en el software OpenFoam dado que se disponía de estas herramientas para su uso, dado que las herramientas ExploCFD y FLAME ACCELERATION SIMULATION (FLACS) han sido usados para simular este fenómeno de acuerdo a la revisión realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam serían una muy biena opción para la enseñanza de este fenómeno.
 
 **Tabla 6**. Rúbrica para evaluar una explosión de gases
 | | |Software explosiones| | | 
