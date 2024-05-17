@@ -1,5 +1,5 @@
-# Rúbrica para evaluar los software de simulación de incendios y explosiones
-Se crearon unos criterios para evaluar las diferentes herramientas de modelación física (HsMF) en los diferentes escenarios donde se pueden dar incendios o explosiones. Si bien algunos de los criterios no los pudimos evaluar directamente dadas las limitaciones que tenemos respecto al uso de la herramienta, se trató en estos casos de valorar el criterio apoyados con una revisión de la literatura y la información del fabricante o distribuidor. En la Tabla 1 se muestran los criterios usados en la evaluación de las HsMF y la forma de valorar cada criterio.
+# Comparación de herramientas de simulación física con aplicación en seguridad contra incendios y explosiones
+Se crearon unos criterios para evaluar las diferentes herramientas de modelación física (HsMF) en los diferentes escenarios donde se pueden dar incendios o explosiones. Si bien algunos de los criterios no los pudimos evaluar directamente dadas las limitaciones que tenemos respecto al uso de la herramienta, se trató en estos casos de valorar el criterio apoyados con una revisión de la literatura y la información del fabricante o distribuidor. En la Tabla 1 se muestran los criterios que se usaron para comparar diferentes Herramientas de Modelamiento Físico (HsMF).
 
 **Tabla 1**. Criterios de evaluación usados para la rúbrica
 | | | |Indicadores| | |
@@ -23,7 +23,7 @@ Se crearon unos criterios para evaluar las diferentes herramientas de modelació
 |Posibilidad de incluir modelos propios|No es posible||Es posible pero la implementación es compleja||Es posible y fácil de incluir|
 |Información de los métodos numéricos implementados|No se tiene información||||Información completa de los métodos de discretización usados|
 
-Para el caso de incendios por compartimentos se realizó una simulación en las HsMF Fire Dynamic Simulator (FDS), Consolidated Model of Fire and Smoke Transport (CFAST) y Open Field Operation And Manipulation (OpenFoam) usando el solver FireFoam. Dado que todas estas herramientas son de libre acceso y teníamos posibilidad de realizar una comparación basado en un caso base, la rúbrica para este escenario se apoyo en una simulación común en las 3 herramientas. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con OpenFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
+Para el caso de incendios por compartimentos se realizaron simulaciones con las HsMF FDS, CFAST y FireFoam. La rúbrica para este escenario se apoyo en una simulación común en las 3 herramientas. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con OpenFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
 
 **Tabla 2**. Rúbrica para software de incendios en compartimientos
 | | |Software incendios| | 
@@ -48,9 +48,24 @@ Para el caso de incendios por compartimentos se realizó una simulación en las 
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|81|74|79| 
 
-En el caso de los incendios en galerías se evaluó la rúbrica basado en la revisión de la literatura y la experiencia que se ha tenido en diferentes proyectos con el uso de las HsMF para simular galerias y tuneles. Las HsMF MFIRE, VentFire, FDS y OpenFoam se evaluaron para determinar la herramienta más adecucada para educar en la prevención y mitigación cuando se presentan este tipo de incendios. Si bien se observa que FDS presenta la mejor calificación para simular este tipo de incendio, es importante resaltar que el uso de esta herramienta se puede ver seriamente limitada si la geometría a simular tiene dimensiones muy grandes que puede ocurrir en minas subterráneas que presentan extensiones de kilómetros, bajo estos escenarios herramientas que usan modelos 1D como MFIRE y VentFire son recomendados.
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">First header</th>
+      <th width="50%">Second header long</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
+      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
-**Tabla 3**. Rúbrica para software de incendios en galerias
+Las HsMF MFIRE, VentFire, FDS y OpenFoam se evaluaron para determinar la herramienta más adecucada para educar en la prevención y mitigación cuando se presentan incendios en espacios subterraneos y tuneles. Si bien se observa que FDS presenta la mejor calificación para simular este tipo de incendios, es importante resaltar que el uso de esta herramienta se puede ver seriamente limitada si la geometría a simular tiene dimensiones muy grandes que puede ocurrir en minas subterráneas que presentan extensiones de kilómetros, bajo estos escenarios herramientas que usan modelos 1D como MFIRE y VentFire son recomendados.
+
+**Tabla 3**. Rúbrica para software de incendios en espacios subterraneos y túneles
 | | |Software incendios| | | 
 |---|---|---|---| ---|
 |**Criterios**|**MFIRE**|**VentFire**|**FDS**|**FireFoam (OpenFoam)**| 
@@ -73,7 +88,7 @@ En el caso de los incendios en galerías se evaluó la rúbrica basado en la rev
 |Información de los métodos numéricos implementados|4|4|5|5|  
 |**Total**|57|53|78|75| 
 
-En el caso de los incendios en cobertura vegetal se evaluó la rúbrica para las herramientas Wildland-Urban Interface Fire Dynamics Simulator (WFDS), FDS y OpenFoam, de acuerdo a la revisión de literatura que se realizó de este proceso. La evaluación de estas herramientas sugiere que WFDS es la más adecuada para la enseñanza de este tipo de incendios. sin embargo es importante resaltar que en la evaluación de este tipo de incendio no se encontró una diferencia muy marcada entre las herramientas evaluadas que sugiere que cualquiera podría usarse para simular este proceso.
+En el caso de los incendios en cobertura vegetal se evaluó la rúbrica para las herramientas Wildland-Urban Interface Fire Dynamics Simulator (WFDS), FDS y OpenFoam. La evaluación de estas herramientas sugiere que WFDS es la más adecuada para la enseñanza de este tipo de incendios. sin embargo es importante resaltar que en la evaluación de este tipo de incendio no se encontró una diferencia muy marcada entre las herramientas evaluadas que sugiere que cualquiera podría usarse para simular este proceso.
 
 **Tabla 4**. Rúbrica para software de incendios en cobertura vegetal
 | | |Software incendios| | 
@@ -123,7 +138,7 @@ En el caso de los incendios por empozamiento se evaluó el desempeño que podrí
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|75|80|76| 
 
-Para evaluar las explosiones de gases se evaluó la rúbrica basado en un tutorial de OpenFoam en el cual se usa la librería de XiFoam. La simulación se realizó tanto en el software Ansys como en el software OpenFoam dado que se disponía de estas herramientas para su uso, dado que las herramientas ExploCFD y FLAME ACCELERATION SIMULATION (FLACS) han sido usados para simular este fenómeno de acuerdo a la revisión realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam serían una muy biena opción para la enseñanza de este fenómeno.
+Para evaluar las explosiones de gases se evaluó las herramientas ExploCFD, FLACS, XiFoam y Fluent. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam serían una muy buena opción para la enseñanza de este fenómeno.
 
 **Tabla 6**. Rúbrica para evaluar una explosión de gases
 | | |Software explosiones| | | 
@@ -148,7 +163,7 @@ Para evaluar las explosiones de gases se evaluó la rúbrica basado en un tutori
 |Información de los métodos numéricos implementados|1|1|5|5|  
 |**Total**|65|51|78|75| 
 
-Para evaluar las explosiones de sprays y nieblas se evaluaron herramientas ExploCFD, FDS, OpenFoam y Fluent que han sido usados para simular este fenómeno de acuerdo a la revisión de la literatura realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada Fluent y OpenFoam serían presentan la mejor calificación.
+Para evaluar las explosiones de sprays y nieblas se evaluaron herramientas ExploCFD, FDS, OpenFoam y Fluent. De acuerdo a la evaluación realizada Fluent y OpenFoam serían las herramientas que presentan la mejor calificación para educar.
 
 **Tabla 7**. Rúbrica para evaluar una explosión de sprays y nieblas
 | | |Software explosiones| | | 
@@ -173,7 +188,7 @@ Para evaluar las explosiones de sprays y nieblas se evaluaron herramientas Explo
 |Información de los métodos numéricos implementados|1|1|5|5|  
 |**Total**|65|50|76|75| 
 
-Para evaluar las explosiones de polvos combustibles se evaluaron herramientas ExploCFD, FDS, OpenFoam y Fluent que han sido usados para simular este fenómeno de acuerdo a la revisión de la literatura realizada, se asignaron valores en la rúbrica basado en la información de publicaciones, información del vendedor y de tutoriales disponibles en la web. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam consideramos que son las más adecuadas dada la posibilidad de usar versiones libres y de presentar información abundante tanto de los modelos implementados como de estudios realizados en estas herramientas.
+Para evaluar las explosiones de polvos combustibles se evaluaron las herramientas ExploCFD, FDS, OpenFoam y Fluent. De acuerdo a la evaluación realizada las herramientas Fluent y OpenFoam son las más adecuadas dada la posibilidad de usar versiones libres y de presentar información abundante tanto de los modelos implementados como de estudios realizados en estas herramientas.
 
 **Tabla 8**. Rúbrica para evaluar una explosión de polvos combustibles
 | | |Software explosiones| | | 
