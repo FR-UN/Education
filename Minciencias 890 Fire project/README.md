@@ -25,6 +25,31 @@ Se crearon unos criterios para evaluar las diferentes herramientas de modelació
 
 Para el caso de incendios por compartimentos se realizaron simulaciones con las HsMF FDS, CFAST y FireFoam. La rúbrica para este escenario se apoyo en una simulación común en las 3 herramientas. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con OpenFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Criterios</th>
+      <th width="25%">FDS</th>
+      <th width="25%">CFAST</th>
+      <th width="25%">FireFoam (OpenFoam)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="25%">Instalación</td>
+      <td width="25%">5</td>
+      <td width="25%">5</td>
+      <td width="25%">4</td>
+    </tr>
+    <tr>
+      <td width="25%">Versión de (libre descarga)</td>
+      <td width="25%">5</td>
+      <td width="25%">5</td>
+      <td width="25%">5</td>
+    </tr>
+  </tbody>
+</table>
+
 **Tabla 2**. Rúbrica para software de incendios en compartimientos
 | | |Software incendios| | 
 |---|---|---|---| 
@@ -47,21 +72,6 @@ Para el caso de incendios por compartimentos se realizaron simulaciones con las 
 |Posibilidad de incluir modelos propios|5|3|5| 
 |Información de los métodos numéricos implementados|5|5|5| 
 |**Total**|81|74|79| 
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%">First header</th>
-      <th width="50%">Second header long</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
-      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
-    </tr>
-  </tbody>
-</table>
 
 Las HsMF MFIRE, VentFire, FDS y OpenFoam se evaluaron para determinar la herramienta más adecucada para educar en la prevención y mitigación cuando se presentan incendios en espacios subterraneos y tuneles. Si bien se observa que FDS presenta la mejor calificación para simular este tipo de incendios, es importante resaltar que el uso de esta herramienta se puede ver seriamente limitada si la geometría a simular tiene dimensiones muy grandes que puede ocurrir en minas subterráneas que presentan extensiones de kilómetros, bajo estos escenarios herramientas que usan modelos 1D como MFIRE y VentFire son recomendados.
 
