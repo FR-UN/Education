@@ -23,7 +23,7 @@ Se crearon unos criterios para evaluar las diferentes herramientas de modelació
 |Posibilidad de incluir modelos propios|No es posible||Es posible pero la implementación es compleja||Es posible y fácil de incluir|
 |Información de los métodos numéricos implementados|No se tiene información||||Información completa de los métodos de discretización usados|
 
-**Incendios por compartimentos:** Para el caso de incendios por compartimentos se realizaron simulaciones con las HsMF FDS, CFAST y FireFoam. La rúbrica para este escenario se apoyo en una simulación común en las 3 herramientas. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con OpenFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
+**Incendios por compartimentos:** Para el caso de incendios por compartimentos se realizaron simulaciones con las HsMF FDS, CFAST y FireFoam. La rúbrica para este escenario se apoyo en una simulación común en las 3 herramientas. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con FireFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
 
 <table style="width: 100%; text-align: center;">
   <caption>Tabla 2. Rúbrica para software de incendios en compartimientos</caption>
