@@ -1,27 +1,76 @@
 # Comparación de herramientas de simulación física con aplicación en seguridad contra incendios y explosiones
 Se crearon unos criterios para evaluar las diferentes herramientas de modelación física (HsMF) en los diferentes escenarios donde se pueden dar incendios o explosiones. Si bien algunos de los criterios no los pudimos evaluar directamente dadas las limitaciones que tenemos respecto al uso de la herramienta, se trató en estos casos de valorar el criterio apoyados con una revisión de la literatura y la información del fabricante o distribuidor. En la Tabla 1 se muestran los criterios que se usaron para comparar diferentes Herramientas de Modelamiento Físico (HsMF).
 
-**Tabla 1**. Criterios de evaluación usados para la rúbrica
-| | | |Indicadores| | |
-| --- |--- |--- |--- |--- |--- |
-|Criterios | 1 | 2 | 3 |4 |5 |
-|Instalación | Muy difícil | Difícil | Medianamente |Fácil |Muy fácil |
-|Versión de (libre descarga) | No tiene versión estudiantil|  |  | |Tiene versión estudiantil |
-|Sistemas operativos disponibles | Un solo S.O.  | Dos S.O. | Tres S.O.| |Varios S.O. |
-|Modelos matemáticos | Modelos 1-D  | Modelo de compartimientos | Modelos CFD 2-D| CFD |CFD - LES |
-|Tutoriales | No hay tutoriales  | Algunos problemas realizado por usuarios | Tutoriales realizados por usuarios| Tutoriales básicos oficiales |Tutoriales oficiales completos y de usuarios |
-|Guía de usuario | No tiene guia de usuario | Guías de usuario no oficiales - tesis | |Guía de usuario - propia |Guia de usuario con material |
-|Preproceso Malla|Requiere otro software de terceros|||Tiene su propio pre-procesador|Tiene su propio pre-procesador y de terceros|
-| Preproceso de caso| | || | |
-|Postproceso| | | |Post Proceso- requiere previamente definir zonas|Postprocesador fácil ,definir superficies, etc|
-|Costo|Comercial - Costo alto|Comercial - Costo bajo|Software libre con costo||Software libre, sin costo|
-|Guia teórica|No existe guía teórica|||Guía teórica de terceros-|Guía teórica propia del software|
-|Fácil para enseñar|Difícil||||Muy fácil|
-|IA aplicabilidad|Los datos no son aplicables IA|Genera pocos datos-poca aplicabilidad IA||genera gran cantidad Datos aplicables IA|Datos y Artículos que han demostrado aplicaciones IA|
-|Costo computacional|Más de 4 semanas|Semanas|Días|horas|Minutos|
-|Recursos en línea (Tesis-videos)|No hay recursos en línea|Poca información|Recursos en sitio web propio - desactualizados||Recursos en sitio web propio - actualizados|
-|Posibilidad de incluir modelos propios|No es posible||Es posible pero la implementación es compleja||Es posible y fácil de incluir|
-|Información de los métodos numéricos implementados|No se tiene información||||Información completa de los métodos de discretización usados|
+<table style="width: 100%; text-align: center;">
+  <caption>Tabla 1. Criterios de evaluación usados para la rúbrica</caption>
+  <thead>
+    <tr>
+      <th width="25%"></th>
+      <th colspan="5" width="15%">Indicadores</th>
+    </tr>
+    <tr>
+      <th scope="col">Criterios</th>
+      <th scope="col" width="15%">1</th>
+      <th scope="col" width="15%">2</th>
+      <th scope="col" width="15%">3</th>
+      <th scope="col" width="15%">4</th>
+      <th scope="col" width="15%">5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">Instalación</td><td>Muy difícil</td><td>Difícil</td><td>Medianamente</td><td>Fácil</td><td>Muy fácil</td>
+    </tr>
+    <tr>
+      <td scope="row">Versión de (libre descarga)</td><td>No tiene versión estudiantil</td><td>-</td><td>-</td><td>-</td><td>Tiene versión estudiantil</td>
+    </tr>
+    <tr>
+      <td scope="row">Sistema operativo</td><td>Un solo S.O.</td><td> Dos S.O. </td><td>-</td><td>Tres S.O.</td><td>Varios S.O.</td>
+    </tr>
+    <tr>
+      <td scope="row">Modelos matemáticos</td><td> Modelos 1-D</td><td>Modelo de compartimientos</td><td>Modelos CFD 2-D</td><td>CFD</td><td>CFD-LES</td>
+    </tr>
+    <tr>
+      <td scope="row">Tutoriales</td><td>No hay tutoriales</td><td>Algunos problemas realizado por usuarios</td><td>Tutoriales realizados por usuarios</td><td>Tutoriales básicos oficiales</td><td>Tutoriales oficiales completos y de usuarios</td>
+    </tr>
+    <tr>
+      <td scope="row">Guía de usuario</td><td>No tiene guia de usuario</td><td>Guías de usuario no oficiales - tesis</td><td>-</td><td>Guía de usuario - propia</td><td>Guia de usuario con material</td>
+    </tr>
+    <tr>
+      <td scope="row">Preproceso de malla</td><td>Requiere otro software de terceros</td><td>-</td><td>-</td><td>Tiene su propio pre-procesador</td><td>Tiene su propio pre-procesador y de terceros</td>
+    </tr>
+    <tr>
+      <td scope="row">Preproceso de caso</td><td>Archivo de texto</td><td>-</td><td>Archivo de texto intuitivo</td><td>-</td><td>Cuenta con interfaz gráfica</td>
+    </tr>
+    <tr>
+      <td scope="row">Postproceso</td><td>-</td><td>Archivo con datos</td><td>-</td><td>Post Proceso- requiere previamente definir zonas</td><td>Postprocesador fácil ,definir superficies, etc</td>
+    </tr>
+    <tr>
+      <td scope="row">Costo</td><td>Comercial - Costo alto</td><td>Comercial - Costo bajo</td><td>Software libre con costo</td><td>-</td><td>Software libre sin costo</td>
+    </tr>
+    <tr>
+      <td scope="row">Guía teórica</td><td>No existe guía teórica</td><td>-</td><td>-</td><td>Guía teórica de terceros</td><td>Guía teórica propia del fabricante</td>
+    </tr>
+    <tr>
+      <td scope="row">Fácil de enseñar</td><td>Muy dificil</td><td>-</td><td>-</td><td>-</td><td>Fácil</td>
+    </tr>
+    <tr>
+      <td scope="row">Aplicabilidad de IA</td><td>Los datos no son aplicables IA</td><td>Genera pocos datos-poca aplicabilidad IA</td><td>-</td><td>Genera gran cantidad Datos aplicables IA</td><td>Datos y Artículos que han demostrado aplicaciones IA</td>
+    </tr>
+    <tr>
+      <td scope="row">Costo computacional</td><td>Más de 4 semanas</td><td>Semanas</td><td>Días</td><td>Horas</td><td>Minutos</td>
+    </tr>
+    <tr>
+      <td scope="row">Recursos en línea (Tesis - videos)</td><td>No hay recursos en línea</td><td>Poca información</td><td>Recursos en sitio web propio - desactualizados</td><td>-</td><td>Recursos en sitio web propio - actualizados</td>
+    </tr>
+    <tr>
+      <td scope="row">Posibilidad de incluir modelos propios</td><td>No es posible</td><td>-</td><td>Es posible pero la implementación es compleja</td><td>-</td><td>Es posible y fácil de incluir</td>
+    </tr>
+    <tr>
+      <td scope="row">Información de los métodos numéricos implementados</td><td>No se tiene información</td><td>-</td><td>-</td><td>-</td><td>Información completa de los métodos de discretización usados</td>
+    </tr>
+  </tbody>
+</table>
 
 **Incendios por compartimentos:** Para el caso de incendios por compartimentos se realizaron simulaciones con las HsMF FDS, CFAST y FireFoam. La rúbrica para este escenario se apoyo en una simulación común en las 3 herramientas. La rúbrica para este caso se muestra en la Tabla 2, en donde se concluye que FDS es la mejor herramienta en este caso, sin embargo la diferencia con FireFoam y CFAST no es muy marcada lo que nos indica que para este caso en concreto los 3 software se podrías usar en la enseñanza.
 
