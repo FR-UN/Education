@@ -3,8 +3,8 @@ Data of this repository is part of the project entitled Training for the prevent
 
 The repository contains two folders, which are explained below. Many of the documents of this repository are written in spanish as they are oriented for the Colombian engineering community.
 
-## Paper -  Education on Emerging Technologies for Fire and Explosion Safety Through Problem-Based Learning (ETFES)
-Repository of the paper entitled Education on Emerging Technologies for Fire and Explosion Safety Through Problem-Based Learning
+## Paper -  Problem-Based Learning and Physical Modeling Tools as a venue to connect engineering competencies with fire and explosion safety (PBL)
+Repository of the paper entitled Problem-Based Learning and Physical Modeling Tools as a venue to connect engineering competencies with fire and explosion safety
 
 ## RAE 2020 project
 Resources of the course Entitled Emerging Technologies against Fires and Explosions developed in the frame of the RAE project
