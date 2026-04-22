@@ -19,5 +19,3 @@ Determinar cómo la simulación puede apoyar procesos de educación en seguridad
 5. Incendio y explosión en sistema BESS
 6. Incendio en interfaz urbano-forestal
 
-## Publicación
-Sitio publicado con GitHub Pages desde la carpeta /docs en la rama main.
