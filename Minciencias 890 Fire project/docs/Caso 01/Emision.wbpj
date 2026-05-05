@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storage>
+  <Project Version="9.1">
+    <base-designpoint-name valType="String">0</base-designpoint-name>
+    <timestamp-max valType="Int64">30761</timestamp-max>
+    <framework-build-version valType="String">20.1.164.0</framework-build-version>
+    <external-version-string valType="String">2020 R1</external-version-string>
+    <last-saved-utc valType="String">12/06/2022 19:36:50</last-saved-utc>
+    <managed-categories valType="String">[report, progress]</managed-categories>
+    <logHistory valType="StringArray">
+      <ArrayEntry Index="0">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents545384.log</ArrayEntry>
+      <ArrayEntry Index="1">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents597740.log</ArrayEntry>
+      <ArrayEntry Index="2">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents854260.log</ArrayEntry>
+      <ArrayEntry Index="3">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents1258628.log</ArrayEntry>
+      <ArrayEntry Index="4">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\3\WorkbenchLogs\CoreEvents9152.log</ArrayEntry>
+      <ArrayEntry Index="5">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\3\WorkbenchLogs\CoreEvents314784.log</ArrayEntry>
+      <ArrayEntry Index="6">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents343000.log</ArrayEntry>
+      <ArrayEntry Index="7">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents92988.log</ArrayEntry>
+      <ArrayEntry Index="8">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents330300.log</ArrayEntry>
+      <ArrayEntry Index="9">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents519788.log</ArrayEntry>
+      <ArrayEntry Index="10">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents758772.log</ArrayEntry>
+      <ArrayEntry Index="11">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents322752.log</ArrayEntry>
+      <ArrayEntry Index="12">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents331068.log</ArrayEntry>
+      <ArrayEntry Index="13">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents215012.log</ArrayEntry>
+      <ArrayEntry Index="14">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents485188.log</ArrayEntry>
+      <ArrayEntry Index="15">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents799552.log</ArrayEntry>
+      <ArrayEntry Index="16">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents119244.log</ArrayEntry>
+      <ArrayEntry Index="17">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\5\WorkbenchLogs\CoreEvents263000.log</ArrayEntry>
+      <ArrayEntry Index="18">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents12880.log</ArrayEntry>
+      <ArrayEntry Index="19">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents16196.log</ArrayEntry>
+      <ArrayEntry Index="20">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents14296.log</ArrayEntry>
+      <ArrayEntry Index="21">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents6212.log</ArrayEntry>
+      <ArrayEntry Index="22">sebastian@TITIRIBI:C:\Users\sebastian\AppData\Local\Temp\2\WorkbenchLogs\CoreEvents9412.log</ArrayEntry>
+    </logHistory>
+    <expression-scope-container valType="String">Parameters</expression-scope-container>
+    <project-type valType="String">WB2</project-type>
+    <ReferenceCache>
+      <ProjectReferenceList>
+        <ReferenceList valType="String">{
+"d7855e57-d013-4015-90fd-6a85fbaac090": "/FileTypesContainer/FileType:GeometryFileType",
+"37b209ed-af69-4780-a06c-5051ba5c9ada": "/FileTypesContainer/FileType:project",
+"8a4d2a43-2b9a-42df-85b5-2a6002bf1912": "/Schematic/Template:Geometry",
+"5ca73fd5-5cb1-4358-b592-d76cc531e717": "/Schematic/Template:ICEMCFD",
+"54fb9065-15f3-4e73-83ef-c40e9a0d5dae": "/Schematic/ComponentTemplate:GeometryCellTemplate",
+"d82713ff-c34b-4106-aaec-750253dc33c9": "/Schematic/ComponentTemplate:ICEMCFD",
+"687d3b1c-91c0-4aff-9a37-608e85f58030": "/FileTypesContainer/FileType:ICEMCFDProject",
+"c5c1eeb0-e27b-4b6f-84c8-3886cf634bec": "/FileTypesContainer/FileType:ICEMCFDMesh",
+"6077cc22-7053-4b15-a68e-fc2ab8a74a24": "/FileContainer/FileReference:F6",
+"69986af5-676e-453d-946d-ea94b9257c22": "/FileTypesContainer/FileType:Imported FLUENT Mesh File Type",
+"51bdae41-42cf-41a1-b542-fddded07c3f7": "/FileTypesContainer/FileType:FLUENTBc",
+"c814b017-2ff5-45b7-bce1-26f96e1585ba": "/FileTypesContainer/FileType:FLUENTCase",
+"e6dd96ee-7ce2-42d6-9046-d7bf1bb178d8": "/FileTypesContainer/FileType:InterpolateDataFile",
+"37b3ae94-5aff-4854-8e63-98db09527b0f": "/FileTypesContainer/FileType:FLUENTData",
+"765b1958-6354-4f52-a07a-3b6a62448c73": "/Schematic/Template:FLUENT",
+"34f2eca5-df64-4c3d-9f0f-4bde271ac76d": "/Schematic/ComponentTemplate:FluentSetupCellTemplate",
+"9ebfa8d8-0a79-41cd-bc02-2ad5867723ee": "/Schematic/ComponentTemplate:FluentResultsCellTemplate",
+"54bae05f-fbfe-4a47-812c-0f044c1dc333": "/FileTypesContainer/FileType:CFDPostState",
+"7c26dac3-8c20-42c1-bb2f-5118029b4417": "/Schematic/Template:Results",
+"0cd7217c-13b8-45f6-b0cb-6502f40df197": "/Schematic/ComponentTemplate:CFDPostTemplate",
+"0461c597-82e9-4751-9f16-f3ec800cc154": "/FileContainer/FileReference:F52",
+"45b108e7-87dd-4567-a7a6-e8782469501e": "/FileContainer/FileReference:F53",
+"051b9900-f1dd-4a6a-9bd5-7710c047e9e2": "/Schematic/Component:Imported Mesh",
+"f4516231-790d-496d-9a86-a616d75d43dd": "/Schematic/Template:Mesh",
+"c58b4b89-8b6e-46bd-b2df-0fa6a98789ff": "/Schematic/System:FLU",
+"7c29056b-0529-4d6a-be79-cceee9e62420": "/Schematic/Component:Setup",
+"3c91e490-953d-4420-b399-b77b94747b2e": "/Schematic/Component:Solution",
+"035e59f6-1eba-4f14-ba0b-b99a8882a178": "/Schematic/ComponentTemplate:SimulationMeshingModelCellTemplate",
+"148bc797-d487-496c-af09-3c1d8a265bb4": "/Schematic/System:SYS",
+"ff2c74e6-ba88-49e8-9807-68577009d81c": "/FileContainer/FileReference:F54",
+"c83098fa-7254-49ae-87f0-f11819e102eb": "/FileContainer/FileReference:F55",
+"18d0f728-38c5-4552-acbf-a69b14e55bef": "/FileContainer/FileReference:F56",
+"04e75fde-80db-42e9-9458-3df442036285": "/FileContainer/FileReference:F57",
+"0111f076-0e79-4e81-8f3a-c40226254013": "/FileContainer/FileReference:F59",
+"c3b6c82c-248d-42b9-b128-415d408801f7": "/FileContainer/FileReference:F60",
+"39908b9c-ca16-4c24-9e14-0c48af80a67d": "/FileContainer/FileReference:F58",
+"f6fd8bb4-cc39-4304-8db7-41b80acd77b7": "/FileContainer/FileReference:F61",
+"7aeb1ff6-9bcf-4e0a-85ba-ccd428da3857": "/FileContainer/FileReference:F62",
+"d7ab1c7d-9bea-48ec-8e8e-b92d7a25b8dc": "/FileContainer/FileReference:F63",
+"93db6623-e8b2-44f4-9082-1e7cb93397dd": "/FileContainer/FileReference:F64"
+}</ReferenceList>
+      </ProjectReferenceList>
+      <DesignPointReferenceListCollection>
+        <DesignPointReferenceList Name="0">
+          <ReferenceList valType="String">{
+"cae508f4-c71f-4b82-a23d-cfaea4389166": "/Imported Mesh/MeshingMesh:MeshingMeshDataObject",
+"b30e6b6c-02c8-4955-9b0d-580ef25d4dc9": "/Solution/FluentSolutionProperties:SolutionData",
+"7af32b4b-6771-4fce-9f37-4d24b3898dfd": "/Imported Mesh/MechanicalMeshFile:FluentMesh",
+"80630a69-f3f7-4a62-93a7-707554c14d59": "/Imported Mesh/MeshingGeneratedMeshOutputProvider:MeshingGeneratedMeshOutputProvider",
+"5ae0a9df-232b-4391-aba5-276aab6bc952": "/Imported Mesh/GeneratedMeshOutputForAQWAModelProvider:GeneratedMeshOutputForAQWAModelProvider",
+"6c99eee1-395d-4a8c-bd9a-6502ff0845b6": "/Setup/SetupData:SetupData"
+}</ReferenceList>
+        </DesignPointReferenceList>
+      </DesignPointReferenceListCollection>
+    </ReferenceCache>
+  </Project>
+  <Addins>
+    <addin-list valType="String">[Ansys.ParameterManager.ParameterManagerAddin, Ansys.ProjectSchematic.ProjectSchematicAddin, Ansys.ProjectReporting.Addin, Ansys.Graphics.GraphicsAddin, Ansys.Units.Commands.Addin, Ansys.Dpdb.DpdbAddin]</addin-list>
+    <Addin Name="Ansys.ParameterManager.ParameterManagerAddin" Version="7.3" />
+    <Addin Name="Ansys.ProjectSchematic.ProjectSchematicAddin" Version="11.4" />
+    <Addin Name="Ansys.ProjectReporting.Addin" Version="6.0" />
+    <Addin Name="Ansys.Graphics.GraphicsAddin" Version="1.1" />
+    <Addin Name="Ansys.Units.Commands.Addin" Version="7.1" />
+    <Addin Name="Ansys.Dpdb.DpdbAddin" Version="4.0">
+      <is-optional-on-resume valType="Boolean">true</is-optional-on-resume>
+    </Addin>
+  </Addins>
+  <Containers>
+    <container-map valType="String">{"FileContainer": Project:FileContainer, "Messages": Project:Messages, "Parameters": Ansys.ParameterManager.ParameterManagerAddin:parameters, "Schematic": Ansys.ProjectSchematic.ProjectSchematicAddin:Default, "ReportDataContainer": Ansys.ProjectReporting.Addin:ReportDataContainer, "Graphics": Ansys.Graphics.GraphicsAddin:graphics, "Units": Ansys.Units.Commands.Addin:Units, "DpdbContainer": Ansys.Dpdb.DpdbAddin:DpdbContainer}</container-map>
+    <static-container-ids valType="String">{"FileContainer": FileManager, "Parameters": Parameters, "Schematic": Schematic, "ReportDataContainer": ReportDataContainer, "Graphics": Graphics, "Units": Units, "DpdbContainer": DpdbContainer}</static-container-ids>
+    <Container Name="FileContainer" Version="1.0">
+      <container-type valType="String">Project:FileContainer</container-type>
+      <static-id valType="String">FileManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 30760, "Input": 1139, "Output": 1139}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/FileContainer/FileReference:F1" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F1</object-name>
+        <member-data valType="String">{"DisplayText": "Carbonera.scdoc", "FileType": $$d7855e57-d013-4015-90fd-6a85fbaac090, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"D:\Sebastian\ANM Fire\Topaga\EnsayoMalla\Carbonera.scdoc", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F3" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F3</object-name>
+        <member-data valType="String">{"DisplayText": "Emision.wbpj", "FileType": $$37b209ed-af69-4780-a06c-5051ba5c9ada, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": "$(ProjectName).wbpj", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F6" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F6</object-name>
+        <member-data valType="String">{"DisplayText": "ICM.msh", "FileType": $$69986af5-676e-453d-946d-ea94b9257c22, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\ICM\ICEMCFD\ICM.msh", "ReferenceCount": 4}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F52" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F52</object-name>
+        <member-data valType="String">{"DisplayText": "ICM.msh", "FileType": $$69986af5-676e-453d-946d-ea94b9257c22, "DependentFiles": [], "ContainerAssociations": ["Imported Mesh", "Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"D:\Sebastian\ANM Fire\Topaga\TopagaEvento\ICM.msh", "ReferenceCount": 3}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F53" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F53</object-name>
+        <member-data valType="String">{"DisplayText": "ICM.set", "FileType": $$51bdae41-42cf-41a1-b542-fddded07c3f7, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM.set", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F54" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F54</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-Setup-Output.cas.gz", "FileType": $$c814b017-2ff5-45b7-bce1-26f96e1585ba, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-Setup-Output.cas.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F55" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F55</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-1.cas.gz", "FileType": $$c814b017-2ff5-45b7-bce1-26f96e1585ba, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-1.cas.gz", "ReferenceCount": 2}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F56" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F56</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-1-00020.dat.gz", "FileType": $$37b3ae94-5aff-4854-8e63-98db09527b0f, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-1-00020.dat.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F57" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F57</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-1-00414.dat.gz", "FileType": $$37b3ae94-5aff-4854-8e63-98db09527b0f, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-1-00414.dat.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F58" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F58</object-name>
+        <member-data valType="String">{"DisplayText": "ICM.ip", "FileType": $$e6dd96ee-7ce2-42d6-9046-d7bf1bb178d8, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM.ip", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F59" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F59</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-2.cas.gz", "FileType": $$c814b017-2ff5-45b7-bce1-26f96e1585ba, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-2.cas.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F60" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F60</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-2-01647.dat.gz", "FileType": $$37b3ae94-5aff-4854-8e63-98db09527b0f, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-2-01647.dat.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F61" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F61</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-4.cas.gz", "FileType": $$c814b017-2ff5-45b7-bce1-26f96e1585ba, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-4.cas.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F62" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F62</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-4-01975.dat.gz", "FileType": $$37b3ae94-5aff-4854-8e63-98db09527b0f, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": True, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-4-01975.dat.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F63" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F63</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-5.cas.gz", "FileType": $$c814b017-2ff5-45b7-bce1-26f96e1585ba, "DependentFiles": [$$93db6623-e8b2-44f4-9082-1e7cb93397dd], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-5.cas.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F64" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F64</object-name>
+        <member-data valType="String">{"DisplayText": "ICM-5-02176.dat.gz", "FileType": $$37b3ae94-5aff-4854-8e63-98db09527b0f, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FLU-3\Fluent\ICM-5-02176.dat.gz", "ReferenceCount": 1}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Messages" Version="1.0">
+      <container-type valType="String">Project:Messages</container-type>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 29726, "Input": 1140, "Output": 1140}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Messages/StoredMessage:Message" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\EnsayoMalla\Topaga_files\dp0\Geom\DM\Geom.scdoc""", "Details": None, "Association": "", "DateTimeStamp": 10/25/2021 19:42:02, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 1" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 1</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\Geom\DM\Geom.scdoc""", "Details": None, "Association": "", "DateTimeStamp": 10/28/2021 21:23:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 2" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 2</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-8-00105.dat.gz
+An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-8-00105.dat.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadData(String fileName)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/30/2021 14:09:29, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 3" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 3</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-8-00105.dat.gz
+An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-8-00105.dat.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadData(String fileName)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-8-00105.dat.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/30/2021 14:14:29, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 4" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 4</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Se produjo una excepción de tipo 'Ansys.Fluent.Cortex.CortexNotAvailableException'.", "Details": """Ansys.Fluent.Cortex.CortexNotAvailableException: Se produjo una excepción de tipo 'Ansys.Fluent.Cortex.CortexNotAvailableException'.
+   en Ansys.Fluent.Data.SetupData.GetCommunicator(IReadLockContainer context)
+   en Ansys.Fluent.Data.SetupData.ReadCaseModelInfo(IFullContext context)
+   en Ansys.Fluent.Data.SetupData.ReadMeshAndModelInfo(IFullContext context)
+   en Ansys.Fluent.Data.SetupData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Se produjo una excepción de tipo 'Ansys.Fluent.Cortex.CortexNotAvailableException'.
+CommandName: Fluent.Edit(Container=\"Setup\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/30/2021 14:26:53, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 5" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 5</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """saving container Setup: An error occurred in FLUENT during save
+An error occurred in FLUENT during save""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT during save
+An error occurred in FLUENT during save
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.Save()
+   en Ansys.Fluent.Data.FluentSetupContainer.Save(IStorageObjectWriter projectStorage, PersistenceContext context)
+   en Ansys.Core.DataModel.ProjectSystem.DataContainerRecord.SaveContainer(IStorageObjectWriter storage, PersistenceContext context, Exception&amp; error)
+""", "Association": "", "DateTimeStamp": 11/01/2021 15:09:54, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 6" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 6</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """The project has been partially saved, but some errors occured during the save.
+Failed container(s) from designpoint: Setup
+""", "Details": """   en Ansys.Core.Persistence.ProjectSaveHandler.DoProjectSave()
+   en Ansys.Core.Persistence.ProjectSaveHandler.ProjectSave()
+   en Ansys.Core.Persistence.Commands.SaveCommand.DoSave(IFullContext context, String filePath, Boolean overwrite, Boolean revertibleSave)
+   en Ansys.Core.Persistence.Commands.SaveCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)""", "Association": "", "DateTimeStamp": 11/01/2021 15:10:09, "Visibility": "Standard", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 7" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 7</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM.set""", "Details": None, "Association": "", "DateTimeStamp": 11/01/2021 15:10:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 8" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 8</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-Setup-Output.cas.gz""", "Details": None, "Association": "", "DateTimeStamp": 11/01/2021 15:10:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 9" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 9</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM.ip""", "Details": None, "Association": "", "DateTimeStamp": 11/01/2021 15:10:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 10" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 10</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-14-02955.dat.gz
+An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-14-02955.dat.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-14-02955.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-14-02955.dat.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadData(String fileName)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-14-02955.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-14-02955.dat.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 11/01/2021 15:10:42, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 11" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 11</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """saving container Setup: An error occurred in FLUENT during save
+An error occurred in FLUENT during save""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT during save
+An error occurred in FLUENT during save
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.Save()
+   en Ansys.Fluent.Data.FluentSetupContainer.Save(IStorageObjectWriter projectStorage, PersistenceContext context)
+   en Ansys.Core.DataModel.ProjectSystem.DataContainerRecord.SaveContainer(IStorageObjectWriter storage, PersistenceContext context, Exception&amp; error)
+""", "Association": "", "DateTimeStamp": 11/01/2021 16:32:38, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 12" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 12</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\designPoint.wbdp""", "Details": None, "Association": "", "DateTimeStamp": 11/01/2021 16:32:39, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 13" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 13</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """The project has been partially saved, but some errors occured during the save.
+Failed container(s) from designpoint: Setup
+""", "Details": """   en Ansys.Core.Persistence.ProjectSaveHandler.DoProjectSave()
+   en Ansys.Core.Persistence.ProjectSaveHandler.ProjectSave()
+   en Ansys.Core.Persistence.Commands.SaveCommand.DoSave(IFullContext context, String filePath, Boolean overwrite, Boolean revertibleSave)
+   en Ansys.Core.Persistence.Commands.SaveCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)""", "Association": "", "DateTimeStamp": 11/01/2021 16:32:54, "Visibility": "Standard", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 14" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 14</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadCase(String fileName)
+   en Ansys.Fluent.Data.SetupData.ReadCase(IFullContext context, String filePath)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 11/01/2021 16:35:35, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 15" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 15</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadCase(String fileName)
+   en Ansys.Fluent.Data.SetupData.ReadCase(IFullContext context, String filePath)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 11/01/2021 16:38:04, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 16" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 16</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadCase(String fileName)
+   en Ansys.Fluent.Data.SetupData.ReadCase(IFullContext context, String filePath)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 11/01/2021 16:41:01, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 17" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 17</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU\Fluent\ICM-15.cas.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadCase(String fileName)
+   en Ansys.Fluent.Data.SetupData.ReadCase(IFullContext context, String filePath)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+An error occurred in FLUENT when reading case D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU\\Fluent\\ICM-15.cas.gz
+CommandName: Fluent.Edit(Container=\"Solution\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 11/02/2021 09:28:28, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 18" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 18</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"File 'D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU-7\Fluent\ICM-8-3000.0.dat.gz' does not exist or is not readable.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:52, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 19" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 19</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFD-Post.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": r"""CFD-Post Application Error
+
+ERROR
+File 'D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU-7\Fluent\ICM-8-3000.0.dat.gz' does not exist or is not readable.""", "Association": "", "DateTimeStamp": 03/17/2022 21:50:52, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 20" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 20</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Object(s) 'Pressure' referenced in object 'Iso Clip 1/Colour Variable' either do not exist or are currently unavailable for use.During state load this could be because the referenced object(s) have yet to be fully initialized.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 21" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 21</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Object(s) '/DOMAIN GROUP:All Domains' referenced in object 'Iso Clip 1/Domain List' either do not exist or are currently unavailable for use.During state load this could be because the referenced object(s) have yet to be fully initialized.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 22" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 22</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Object(s) 'wall' referenced in object 'Iso Clip 1/Location List' either do not exist or are currently unavailable for use.During state load this could be because the referenced object(s) have yet to be fully initialized.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 23" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 23</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Object(s) 'Ch4.Mole Fraction' referenced in object 'Iso Clip Limiter 1/Variable' either do not exist or are currently unavailable for use.During state load this could be because the referenced object(s) have yet to be fully initialized.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 24" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 24</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "No locators provided in location parameter 'Location List'.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 25" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 25</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Variable 'Velocity' does not exist.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 26" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 26</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "No locators provided in Location parameter.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 27" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 27</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Cannot colour vector 'Vector 1'. Variable 'Velocity' is not found.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:53, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 28" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 28</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "An error occured initializing CFD-Post: Application error(s) occurred in CFD-Post.  Please see the messages view for further details.", "Details": None, "Association": "", "DateTimeStamp": 03/17/2022 21:50:56, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 29" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 29</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU-7\Fluent\ICM-8-3000.0.dat.gz
+An error occurred in FLUENT when reading data file D:\Sebastian\ANM Fire\Topaga\Malla\Topaga_files\dp0\FLU-7\Fluent\ICM-8-3000.0.dat.gz""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU-7\\Fluent\\ICM-8-3000.0.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU-7\\Fluent\\ICM-8-3000.0.dat.gz
+   en Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   en Ansys.Fluent.FluentCommunicator.ReadData(String fileName)
+   en Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   en Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   en Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   en Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   en Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   en Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU-7\\Fluent\\ICM-8-3000.0.dat.gz
+An error occurred in FLUENT when reading data file D:\\Sebastian\\ANM Fire\\Topaga\\Malla\\Topaga_files\\dp0\\FLU-7\\Fluent\\ICM-8-3000.0.dat.gz
+CommandName: Fluent.Edit(Container=\"Solution 7\")
+   en Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   en Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   en Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   en Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   en Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   en Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   en Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 06/07/2022 12:47:54, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 30" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 30</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "The Setup component in Fluent requires user input before it can be updated. For instructions on how to address the cell in its current state, click the blue triangle in the lower right corner of the cell in the Project Schematic.", "Details": None, "Association": "", "DateTimeStamp": 06/07/2022 20:06:48, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 31" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 31</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "A dialog is open in the FLUENT Application. Please close the dialog before trying this operation.", "Details": None, "Association": "", "DateTimeStamp": 07/13/2022 10:52:42, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 32" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 32</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "A dialog is open in the FLUENT Application. Please close the dialog before trying this operation.", "Details": None, "Association": "", "DateTimeStamp": 07/13/2022 10:54:39, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 33" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 33</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "The FLUENT Application is currently busy. Please try this operation again after some time.", "Details": None, "Association": "", "DateTimeStamp": 07/25/2022 10:34:37, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 34" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 34</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+D:\Sebastian\ANM Fire\Topaga\Difusion_reducido\Topaga_files\dp0\FLU-2\Fluent\ICM-1.cas.gz""", "Details": None, "Association": "", "DateTimeStamp": 07/27/2022 13:06:45, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 35" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 35</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "The FLUENT Application is currently busy. Please try this operation again after some time.", "Details": None, "Association": "", "DateTimeStamp": 08/19/2022 15:58:25, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Parameters" Version="1.0">
+      <container-type valType="String">Ansys.ParameterManager.ParameterManagerAddin:parameters</container-type>
+      <static-id valType="String">Parameters</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <maxUpdateOrder valType="Double">1</maxUpdateOrder>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 30756, "Input": 30757, "Output": 1143}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Parameters/DesignPoint:0" Version="1.0">
+        <class-type valType="String">DesignPoint</class-type>
+        <object-name valType="String">0</object-name>
+        <member-data valType="String">{"DisplayText": "DP 0", "JustDuplicated": False, "PartiallyRetainedData": [], "ValidRetainedData": [], "ErrorsOnLastUpdate": {}, "LastUpdateInformation": {"DidUpdate": "True", "DidPreRsmUpdate": "False"}, "Parameters": {}, "ParameterErrors": {}, "CurrentValues": {}, "ParameterStatus": {}, "Note": None, "IsUpToDate": True, "Exported": True, "Retained": True, "CurrentStateExported": False, "IsDataModelValid": True, "HasRetainedData": True, "HasBeenSolved": True, "UpdateOrder": 1}</member-data>
+        <properties-setByUserFlag-data valType="String">["IsDataModelValid"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Parameters/DesignPointReportSetting:Design Points Report Setting" Version="1.0">
+        <class-type valType="String">DesignPointReportSetting</class-type>
+        <object-name valType="String">Design Points Report Setting</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Report Setting", "DesignPointReportImage": "None"}</member-data>
+      </Object>
+      <ParameterToPropertyMap />
+    </Container>
+    <Container Name="Schematic" Version="1.0">
+      <container-type valType="String">Ansys.ProjectSchematic.ProjectSchematicAddin:Default</container-type>
+      <static-id valType="String">Schematic</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 30662, "Input": 30669, "Output": 1146}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Schematic/System:SYS" Version="1.0">
+        <class-type valType="String">System</class-type>
+        <object-name valType="String">SYS</object-name>
+        <member-data valType="String">{"DisplayText": "Mesh", "Components": [$$051b9900-f1dd-4a6a-9bd5-7710c047e9e2], "ComponentGroups": [], "SystemVisible": True, "RequiredComponents": [$$051b9900-f1dd-4a6a-9bd5-7710c047e9e2], "ExcludedComponentTemplates": [], "Attributes": {"PhysicsType": "ImportedFluids", "AnalysisType": "Any", "SolverType": "Any", "SolverTypeDisplayString": "Any", "PhysicsTypeDisplayString": "Any", "AnalysisTypeDisplayString": "Any", "SystemName": "Mesh", "IsCreated": "True"}, "SystemType": "Mesh", "HeaderText": "Mesh", "SystemTypeAbbreviation": "SYS", "UniqueSystemDirectoryName": "SYS", "Physics": [], "AnalysisType": None, "SystemHelpId": None, "AdditionalSystemHelpId": None, "IsParametric": False, "CreatedFromTemplate": $$f4516231-790d-496d-9a86-a616d75d43dd, "Notes": None, "LayoutChildren": [$$c58b4b89-8b6e-46bd-b2df-0fa6a98789ff], "LayoutIndex": 2}</member-data>
+      </Object>
+      <Object Name="/Schematic/System:FLU" Version="1.0">
+        <class-type valType="String">System</class-type>
+        <object-name valType="String">FLU</object-name>
+        <member-data valType="String">{"DisplayText": "Fluent", "Components": [$$7c29056b-0529-4d6a-be79-cceee9e62420, $$3c91e490-953d-4420-b399-b77b94747b2e], "ComponentGroups": [[$$7c29056b-0529-4d6a-be79-cceee9e62420, $$3c91e490-953d-4420-b399-b77b94747b2e]], "SystemVisible": True, "RequiredComponents": [$$7c29056b-0529-4d6a-be79-cceee9e62420, $$3c91e490-953d-4420-b399-b77b94747b2e], "ExcludedComponentTemplates": [], "Attributes": {"PhysicsTypeDisplayString": "Fluids"}, "SystemType": "FLUENT", "HeaderText": "Fluent", "SystemTypeAbbreviation": "FLU", "UniqueSystemDirectoryName": "FLU-3", "Physics": ["Fluids"], "AnalysisType": None, "SystemHelpId": "wb2sb_fluentapp", "AdditionalSystemHelpId": None, "IsParametric": False, "CreatedFromTemplate": $$765b1958-6354-4f52-a07a-3b6a62448c73, "Notes": None, "LayoutChildren": [], "LayoutIndex": 0}</member-data>
+      </Object>
+      <Object Name="/Schematic/SchematicSettings:Schematic Settings" Version="1.0">
+        <class-type valType="String">SchematicSettings</class-type>
+        <object-name valType="String">Schematic Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic Settings", "WireBundling": False, "ShowSystemCoordinates": True, "Notes": None, "SuspendCollectingRSMResult": False}</member-data>
+      </Object>
+      <Object Name="/Schematic/DesignPointSolveSettings:Design Points Update Settings" Version="1.0">
+        <class-type valType="String">DesignPointSolveSettings</class-type>
+        <object-name valType="String">Design Points Update Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Update Settings", "UpdateOption": "Foreground", "RsmUserString": None, "ConfiguredQueue": {"OptionIcons": None, "OptionLabels": "Local", "Options": "Local", "ReadOnlyOptions": None, "OptionFeatureFlags": None, "OptionFilterFlags": None, "OptionLicenseFlags": None, "Value": "Local"}, "RsmJobName": "Workbench", "UpdateMethod": "Foreground", "JobControl": "OneJobAllDesignPoints", "MaxNumberOfJobs": 1, "UpdateOrder": "UpdateFromCurrentDesignPoint", "PreRSMUpdate": "None", "AllowRemoteGeometryUpdate": False, "PartialUpdate": "None", "RetainPartialUpdate": "None", "LicenseCheckout": "OnDemand", "DelayReservedLicenseCheckout": False, "ReservedLicensingExcludesPreRsmUpdate": False, "ComponentExecutionMode": "Serial", "NumberOfCoresPerJob": 2, "KeepFailedDesignPointFiles": False, "RetainFailedDesignPoints": False, "DesignPointRetainedOrExportedUpdate": "Parameters", "DesignPointUpdateTimeout": -1, "NumberOfTasksToBeCreated": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/HeldLicenseSettings:User Reserved Licenses" Version="1.0">
+        <class-type valType="String">HeldLicenseSettings</class-type>
+        <object-name valType="String">User Reserved Licenses</object-name>
+        <member-data valType="String">{"DisplayText": "User Reserved Licenses", "ReservedSet": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Setup" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Setup</object-name>
+        <member-data valType="String">{"DisplayText": "Setup", "ImageName": "setup", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Setup", "_overwrittenUpdatable": None, "Template": $$34f2eca5-df64-4c3d-9f0f-4bde271ac76d, "InSystem": $$c58b4b89-8b6e-46bd-b2df-0fa6a98789ff, "MasterSources": {"Sources": [[{"DataType": "SimulationGeneratedMesh", "Component": $$051b9900-f1dd-4a6a-9bd5-7710c047e9e2, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Imported Mesh" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Imported Mesh</object-name>
+        <member-data valType="String">{"DisplayText": "Imported Mesh", "ImageName": "model2", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Imported Mesh", "_overwrittenUpdatable": None, "Template": $$035e59f6-1eba-4f14-ba0b-b99a8882a178, "InSystem": $$148bc797-d487-496c-af09-3c1d8a265bb4, "MasterSources": {"Sources": [[{"DataType": "Geometry", "Component": $$051b9900-f1dd-4a6a-9bd5-7710c047e9e2, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+        <properties-setByUserFlag-data valType="String">["DisplayText"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Schematic/Component:Solution" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Solution</object-name>
+        <member-data valType="String">{"DisplayText": "Solution", "ImageName": "solution", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Solution", "_overwrittenUpdatable": None, "Template": $$9ebfa8d8-0a79-41cd-bc02-2ad5867723ee, "InSystem": $$c58b4b89-8b6e-46bd-b2df-0fa6a98789ff, "MasterSources": {"Sources": [[{"DataType": "FluentSetup", "Component": $$7c29056b-0529-4d6a-be79-cceee9e62420, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "FLUENT", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="ReportDataContainer" Version="1.0">
+      <container-type valType="String">Ansys.ProjectReporting.Addin:ReportDataContainer</container-type>
+      <static-id valType="String">ReportDataContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1256, "Input": 1247, "Output": 1247}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Graphics" Version="1.0">
+      <container-type valType="String">Ansys.Graphics.GraphicsAddin:graphics</container-type>
+      <static-id valType="String">Graphics</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1257, "Input": 1257, "Output": 1257}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Units" Version="1.0">
+      <container-type valType="String">Ansys.Units.Commands.Addin:Units</container-type>
+      <static-id valType="String">Units</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1258, "Input": 1260, "Output": 1258}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Units/UnitSystemProjectSettings:UnitSystemProjectSettings" Version="1.0">
+        <class-type valType="String">UnitSystemProjectSettings</class-type>
+        <object-name valType="String">UnitSystemProjectSettings</object-name>
+        <member-data valType="String">{"DisplayText": "UnitSystemProjectSettings", "DataContainerUnitSystemRegistry": {}}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys</object-name>
+        <member-data valType="String">{"DisplayText": "Metric (kg,m,s,°C,A,N,V)", "ChangedQuantityUnits": {}, "UnitSystemName": "MKS_STANDARD", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": True, "IsDefault": False}</member-data>
+      </Object>
+    </Container>
+    <Container Name="DpdbContainer" Version="1.0">
+      <container-type valType="String">Ansys.Dpdb.DpdbAddin:DpdbContainer</container-type>
+      <static-id valType="String">DpdbContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1266, "Input": 1261, "Output": 1261}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/DpdbContainer/DpdbSettings:Dpdb Settings Entity" Version="1.0">
+        <class-type valType="String">DpdbSettings</class-type>
+        <object-name valType="String">Dpdb Settings Entity</object-name>
+        <member-data valType="String">{"DisplayText": "Dpdb Settings Entity", "ServerUrl": "https://localhost/dcs", "ServerUserName": "dcadmin", "ServerPassword": "dcadmin", "DatabaseName": None, "StartLocalEvaluatorOnUpdate": True, "ExecutionTime": 300, "UpdateDesignPointInSteps": False}</member-data>
+      </Object>
+    </Container>
+  </Containers>
+</Storage>
